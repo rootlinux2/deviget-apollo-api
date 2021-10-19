@@ -1,0 +1,9 @@
+{
+  "name": "deviget-api",
+  "version": "1.0.0",
+  "description": "Apollo server for graphql api",
+  "main": "index.js",
+  "author": "ycbarrosocu@gmail.com",
+  "license": "MIT",
+  "private": false
+}
